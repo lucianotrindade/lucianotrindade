@@ -18,7 +18,7 @@ cada dia que leio um livro ou aprendo algo novo me deixa mais forte para alcanç
 
 ## Contato :iphone:
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/wesleyosantos91/)](https://www.linkedin.com/in/luciano-trindade-a3216411a/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/luciano-trindade-a3216411a/)](https://www.linkedin.com/in/luciano-trindade-a3216411a/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:wesleyosantos91@gmail.com)](mailto:lucianoapatrindade@gmail.com/)
 [![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5519971505970&text=Olá!)](https://api.whatsapp.com/send?phone=5519971505970&text=Olá!)
 
