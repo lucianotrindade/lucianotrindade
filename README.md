@@ -11,7 +11,7 @@
 - HTML - Fundação Bradesco. 
 
 ## :pushpin: Sobre mim:
-Sou muito curioso e gosto de saber como as coisa de fato funcionam, gosto de desafios e trabalhar em equipe,</br>
+Sou muito curioso e gosto de saber como as coisas de fato funcionam, gosto de desafios e trabalhar em equipe,</br>
 resolver problemas de clientes me deixa satisfeito com o que eu faço, pois me dedico em satisfazer suas necessidades.</br>
 Gosto de ensinar o que sei as pessoas, pois dessa forma aprendo muito mais sobre o que estou ensinando, estudar é o que gosto de fazer,
 cada dia que leio um livro ou aprendo algo novo me deixa mais forte para alcançar meus objetivos.
