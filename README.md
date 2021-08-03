@@ -2,7 +2,7 @@
 38 Anos !
 
 ## Sou estudante de Análise e desenvolvimento de sistemas.
-- :mortar_board: Atualmente estou no segundo semestre de graduação.
+- :mortar_board: Atualmente estou no terceiro semestre de graduação.
 - :floppy_disk: Tenho feito vários cursos além da faculdade para entrar na área de desenvolvimento.</br></br>
 :point_down: Cursos:
 - JavaScript e TypeScript - Udemy - Em andamento.
